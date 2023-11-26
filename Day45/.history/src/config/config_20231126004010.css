@@ -1,0 +1,22 @@
+.config-container {
+  width: 80%; /* Adjust the width as needed */
+  margin: 20px auto;
+}
+
+input[type="range"] {
+  width: 100%;
+}
+
+.progress-bar {
+  height: 10px;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-top: 5px;
+  position: relative;
+}
+
+.progress-fill {
+  height: 100%;
+  border-radius: 5px;
+  background-color: #4caf50; /* Change color as needed */
+}
